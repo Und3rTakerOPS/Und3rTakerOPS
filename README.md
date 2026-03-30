@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2l1dGZmaWxyeTVkeW44N3c3cTJhcW1uMnB6bDVuOWZ1ZDAxMWZvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif](https://i.giphy.com/GOm8jtV723GQYzYlke.webp)" alt="Banner" width="100%" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm02ejlldm5kaWhzZzN4NGJsZG9qNWw1MXJiYm95N254OG1ocnQwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GOm8jtV723GQYzYlke/giphy.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Cybersecurity engineer focused on building tools and scripts for ethical and educational purposes, aimed at improving system security, understanding vulnerabilities, and promoting best practices across infrastructure and applications.
